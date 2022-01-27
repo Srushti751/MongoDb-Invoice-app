@@ -1,0 +1,114 @@
+.registerStyle{
+    background-color: orange;
+    width: 60%;
+    margin-top: 5%;
+    border-radius: 50px;
+    box-shadow: 5px 10px #888888;
+}
+.registerForm{
+    width:80%;
+}
+
+.invoiceStyle{
+background-color: #f9d29d;
+background-image: linear-gradient(315deg, #f9d29d 0%, #ffd8cb 74%);
+
+    width: 80%;
+    margin-top: 5%;
+    border-radius: 50px;
+    box-shadow: 5px 10px #888888;
+}
+.flex-box{
+    display: flex;
+    justify-content: space-between;
+}
+.flex-boxCol{
+    display: flex;
+    flex-direction: column;
+}
+.btnStyle{
+    background-color: #ee8c68;
+    background-image: linear-gradient(315deg, #ee8c68 0%, #eb6b9d 74%);
+    width: 10%;
+    text-decoration: none;
+    margin-bottom: 5%;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    border-radius: 10px;
+}
+.tableStyle{
+    background-color: #fba8a4;
+    background-image: linear-gradient(315deg, #fba8a4 0%, #dad2f3 74%);
+
+}
+.productTable{
+    background-color :#ffac81;
+background-image: linear-gradient(315deg, #ffac81 0%, #ff928b 74%);
+}
+
+
+
+
+
+
+.invoice-box {
+    max-width: 800px;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid #eee;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .15);
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Helvetica Neue', 'Helvetica';
+    color: #555;
+    }
+    .margin-top {
+    margin-top: 50px;
+    }
+    .justify-center {
+    text-align: center;
+    }
+    .invoice-box table {
+    width: 100%;
+    line-height: inherit;
+    text-align: left;
+    }
+    .invoice-box table td {
+    padding: 5px;
+    vertical-align: top;
+    }
+    .invoice-box table tr td:nth-child(2) {
+    text-align: right;
+    }
+    .invoice-box table tr.top table td {
+    padding-bottom: 20px;
+    }
+    .invoice-box table tr.top table td.title {
+    font-size: 45px;
+    line-height: 45px;
+    color: #333;
+    }
+    .invoice-box table tr.information table td {
+    padding-bottom: 40px;
+    }
+    .invoice-box table tr.heading td {
+    background: #eee;
+    border-bottom: 1px solid #ddd;
+    font-weight: bold;
+    }
+    .invoice-box table tr.details td {
+    padding-bottom: 20px;
+    }
+    .invoice-box table tr.item td {
+    border-bottom: 1px solid #eee;
+    }
+    .invoice-box table tr.item.last td {
+    border-bottom: none;
+    }
+    .invoice-box table tr.total td:nth-child(2) {
+    border-top: 2px solid #eee;
+    font-weight: bold;
+    }
+
+    
